@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gdaffix/static/css/main.f855e6bc.css",
+    "main.js": "/gdaffix/static/js/main.2dd38c9f.js",
+    "static/js/453.32ac1b0d.chunk.js": "/gdaffix/static/js/453.32ac1b0d.chunk.js",
+    "static/media/logo.svg": "/gdaffix/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gdaffix/index.html",
+    "main.f855e6bc.css.map": "/gdaffix/static/css/main.f855e6bc.css.map",
+    "main.2dd38c9f.js.map": "/gdaffix/static/js/main.2dd38c9f.js.map",
+    "453.32ac1b0d.chunk.js.map": "/gdaffix/static/js/453.32ac1b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2dd38c9f.js"
+  ]
+}
